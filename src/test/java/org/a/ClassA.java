@@ -6,11 +6,7 @@ public class ClassA {
 
 	}
 
-	private void TC2() {
-		System.out.println("Amresh");
-
-	}
-
+	
 	private void TC3() {
 		System.out.println("Nandhini");
 
