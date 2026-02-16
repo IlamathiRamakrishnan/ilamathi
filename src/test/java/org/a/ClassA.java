@@ -5,5 +5,10 @@ public class ClassA {
 		System.out.println("ClassA");
 
 	}
+	
+	private void TC3() {
+		System.out.println("Nandhini");
+
+	}
 
 }
