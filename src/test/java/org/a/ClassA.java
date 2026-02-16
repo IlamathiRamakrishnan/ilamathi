@@ -5,5 +5,8 @@ public class ClassA {
 		System.out.println("ClassA");
 
 	}
+	private void TC2() {
+		System.out.println("Amresh");
+	}
 
 }
